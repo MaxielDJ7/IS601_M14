@@ -101,7 +101,7 @@ http://127.0.0.1:8000
 # 🐳 Running with Docker (Backend + Postgres + Redis)
 
 ```
-docker-compose up --build
+docker compose up
 
 ```
 | Service    | URL                                            |
